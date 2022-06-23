@@ -2,9 +2,6 @@ main:
   - name: About
     url: '#about'
     weight: 1
-  - name: Posts
-    url: /posts/
-    weight: 2
-  - name: Docs
-    url: /docs/
-    weight: 3
+  - name: "CV"
+    url: "../CV_Omar_Mouchtaki.pdf"
+    weight: 100

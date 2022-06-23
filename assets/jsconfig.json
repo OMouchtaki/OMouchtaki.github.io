@@ -1,0 +1,11 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../../../var/folders/r9/7jgy705s7kv6t83273h6v14n14y5zr/T/hugo_cache/modules/filecache/modules/pkg/mod/wangchucheng.com/hugo-eureka@v0.9.3/_vendor/github.com/FortAwesome/Font-Awesome/js-packages/@fortawesome/fontawesome-svg-core/*",
+    "../../../../../var/folders/r9/7jgy705s7kv6t83273h6v14n14y5zr/T/hugo_cache/modules/filecache/modules/pkg/mod/wangchucheng.com/hugo-eureka@v0.9.3/_vendor/github.com/FortAwesome/Font-Awesome/js-packages/@fortawesome/free-solid-svg-icons/*"
+   ]
+  }
+ }
+}

@@ -1,0 +1,27 @@
+
+
+/* lora-regular - latin */
+@font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+
+    {{ $fonts := resources.Get "fonts/lora-v17-latin-regular.eot" }}
+    src: url('{{ $fonts.Permalink }}'); /* IE9 Compat Modes */
+    src: local(''),
+         url('{{ $fonts.Permalink }}?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+
+         {{ $fonts := resources.Get "fonts/lora-v17-latin-regular.woff2" }}
+
+         url('{{ $fonts.Permalink }}') format('woff2'), /* Super Modern Browsers */
+
+         {{ $fonts := resources.Get "fonts/lora-v17-latin-regular.woff" }}
+
+         url('{{ $fonts.Permalink }}') format('woff'), /* Modern Browsers */
+
+         {{ $fonts := resources.Get "fonts/lora-v17-latin-regular.ttf" }}
+
+         url('{{ $fonts.Permalink }}') format('truetype'), /* Safari, Android, iOS */
+         {{ $fonts := resources.Get "fonts/lora-v17-latin-regular.svg" }}
+         url('{{ $fonts.Permalink }}#Lora') format('svg'); /* Legacy iOS */
+  }
