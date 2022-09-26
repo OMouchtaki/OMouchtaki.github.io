@@ -39,7 +39,7 @@ widget:
     attachment: 
 ---
 
-I am a third year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Omar Besbes](http://www.columbia.edu/~ob2105/). Prior to joining Columbia, I earned an MS in Applied Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
+I am a fourth year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Omar Besbes](http://www.columbia.edu/~ob2105/) and Professor [Will Ma](http://www.columbia.edu/~wm2428/). Prior to joining Columbia, I earned an MS in Applied Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
 
 I am broadly interested in developing analytical tools to bridge the gap between the theory and the practice of data-driven decision-making. My current research aims at understanding the performance of algorithms in settings where one has access to a small to moderate amount of ''relevant'' data.
 
