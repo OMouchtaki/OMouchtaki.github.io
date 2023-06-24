@@ -45,7 +45,7 @@ with Omar Besbes and Will Ma. *NeurIPS 2022*.
 ## Working Papers
 
 
-[**Data-Driven Newsvendor: Operating in a Heterogeneous Environment**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470)  
+[**From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470)  
 with Omar Besbes and Will Ma. Working paper.
 
 
