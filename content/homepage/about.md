@@ -48,10 +48,8 @@ I am broadly interested in developing analytical tools to bridge the gap between
 
 ### Recent and Upcoming Talks
 
-- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), October 2022.
-- [Simons Intstitute Workshop](https://simons.berkeley.edu/workshops/datadriven-workshop1) (poster), September 2022.
-- [CFOL Workshop at ICML](hhttps://cfol-workshop.github.io/) (poster), July 2022.
-- [MSOM Conference](https://www.msom-2022.com/start/), June 2022.
-- [MSOM Supply Chain Management SIG](https://www.msom-2022.com/start/), June 2022.
-- [RMP section conference](https://www.chicagobooth.edu/events/revenue-management-and-pricing), June 2022.
+- [POMS Annual Conference](https://pomsmeetings.org/conf-2023/), May 2023.
+- [MSOM Conference](https://www.mcgill.ca/msom2023/), June 2023.
+- [APS Conference](https://informs-aps2023.event.univ-lorraine.fr/), June 2023.
+- [RMP Conference](https://www.imperial.ac.uk/business-school/events/informs-revenue-management-and-pricing-section-conference-2023/), July 2023.
 
