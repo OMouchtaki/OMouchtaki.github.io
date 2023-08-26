@@ -39,17 +39,18 @@ widget:
     attachment: 
 ---
 
-I am a fourth year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Omar Besbes](http://www.columbia.edu/~ob2105/) and Professor [Will Ma](http://www.columbia.edu/~wm2428/). Prior to joining Columbia, I earned an MS in Applied Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
+I am a final-year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Omar Besbes](http://www.columbia.edu/~ob2105/) and Professor [Will Ma](http://www.columbia.edu/~wm2428/). Prior to joining Columbia, I earned an MS in Applied Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
 
 I am broadly interested in developing analytical tools to bridge the gap between the theory and the practice of data-driven decision-making. My current research aims at understanding the performance of algorithms in settings where one has access to a small to moderate amount of ''relevant'' data.
+
+**I am on the 2023-2024 academic job market.**
 
 
   
 
-### Recent and Upcoming Talks
+### Upcoming Talks
 
-- [POMS Annual Conference](https://pomsmeetings.org/conf-2023/), May 2023.
-- [MSOM Conference](https://www.mcgill.ca/msom2023/), June 2023.
-- [APS Conference](https://informs-aps2023.event.univ-lorraine.fr/), June 2023.
-- [RMP Conference](https://www.imperial.ac.uk/business-school/events/informs-revenue-management-and-pricing-section-conference-2023/), July 2023.
+- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/), October 2023.  
+  From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms  
+  **TB04 (10/17/23 at 10:45 AM, Center-North 121A)** 
 
