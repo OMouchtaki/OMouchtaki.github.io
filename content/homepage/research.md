@@ -36,24 +36,20 @@ widget:
   * Finalist, APS Best Student Paper Award, 2021  
 
 
-## Refereed Conferences
+## Under-revision Journal Papers
 
 [**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928) with Omar Besbes and Will Ma  
-*Management Science*, Major Revision
+Major Revision in *Management Science*
   * Preliminary version appeared in the Proceedings of the 36th Conference on *Neural Information Processing Systems (NeurIPS)*, 2022
 
 
-## Under-revision Journal Papers
-
+[**Joint Assortment and Inventory Planning under the Markov chain Choice Model**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832909) with Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Ali Sadighian, Sangjo Kim and Jingchen Wu  
+Major Revision in *Management Science* 
 
 [**From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470) with Omar Besbes and Will Ma  
-*Management Science*, Under Review
+Under Review in *Management Science*
 
-
-[**Joint Assortment and Inventory Planning under the Markov chain Choice Model**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832909) with Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Ali Sadighian, Sangjo Kim and Jingchen Wu  
-*Management Science*, Major Revision
-
-## Working Papers
+## Work in Progress
 
 **Pricing with Binary Feedback: the Value of Information Bit by Bit** with Omar Besbes and Will Ma  
 Ongoing work
