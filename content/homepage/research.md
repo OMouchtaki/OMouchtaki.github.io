@@ -30,7 +30,8 @@ widget:
 ## Published or Forthcoming Journal Articles
 
 [**How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878155) with Omar Besbes   
-*Management Science*, Articles In Advance
+*Management Science*, Vol. 69, No. 10, pp. 5848-5865, 2023
+  * Finalist, Best OM Paper in Management Science, 2024
   * First Place, RMP Jeff McGill Student Paper Award, 2021  
   * Finalist, INFORMS George Nicholson Student Paper Competition, 2021  
   * Finalist, APS Best Student Paper Award, 2021  
@@ -47,7 +48,7 @@ Major Revision in *Management Science*
 Major Revision in *Management Science* 
 
 [**From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470) with Omar Besbes and Will Ma  
-Under Review in *Management Science*
+Major Revision in *Management Science*
 
 ## Work in Progress
 
