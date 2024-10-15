@@ -39,7 +39,7 @@ widget:
 
 ## Under-revision Journal Papers
 
-[**Fast Revenue Maximization with Few Experiments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes  
+[**Fast Revenue Maximization**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes  
 Submitted
 
 
