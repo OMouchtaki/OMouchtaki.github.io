@@ -31,13 +31,17 @@ widget:
 
 [**How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878155) with Omar Besbes   
 *Management Science*, Vol. 69, No. 10, pp. 5848-5865, 2023
-  * Finalist, Best OM Paper in Management Science, 2024
+  * Finalist, 'Best OM Paper in Management Science' Award, 2024
   * First Place, RMP Jeff McGill Student Paper Award, 2021  
   * Finalist, INFORMS George Nicholson Student Paper Competition, 2021  
   * Finalist, APS Best Student Paper Award, 2021  
 
 
 ## Under-revision Journal Papers
+
+[**Fast Revenue Maximization with Few Experiments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes  
+Submitted
+
 
 [**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928) with Omar Besbes and Will Ma  
 Major Revision in *Management Science*
@@ -55,8 +59,6 @@ Major Revision in *Management Science*
 **Pricing with Binary Feedback: the Value of Information Bit by Bit** with Omar Besbes and Will Ma  
 Ongoing work
 
-**Fast Revenue Maximization with Few Experiments** with Achraf Bahamou and Omar Besbes  
-Ongoing work
 
 
 
