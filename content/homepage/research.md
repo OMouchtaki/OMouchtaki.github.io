@@ -29,6 +29,10 @@ widget:
 
 ## Published or Forthcoming Journal Articles
 
+[**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928) with Omar Besbes and Will Ma  
+*Management Science* (Forthcoming)
+  * Preliminary version appeared in the Proceedings of the 36th Conference on *Neural Information Processing Systems (NeurIPS)*, 2022
+
 [**How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878155) with Omar Besbes   
 *Management Science*, Vol. 69, No. 10, pp. 5848-5865, 2023
   * Finalist, 'Best OM Paper in Management Science' Award, 2024
@@ -37,27 +41,23 @@ widget:
   * Finalist, APS Best Student Paper Award, 2021  
 
 
-## Under-revision Journal Papers
+## Working/Under-revision Papers
+
+[**Auction Design using Value Prediction with Hallucinations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5134705) with Ilan Lobel and Humberto Moreira
+
+[**Prior-Independent Bidding Strategies for First-Price Auctions**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138056) with Rachitesh Kumar
 
 [**Fast Revenue Maximization**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes  
-Submitted
-
-
-[**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928) with Omar Besbes and Will Ma  
-Major Revision in *Management Science*
-  * Preliminary version appeared in the Proceedings of the 36th Conference on *Neural Information Processing Systems (NeurIPS)*, 2022
-
 
 [**Joint Assortment and Inventory Planning under the Markov chain Choice Model**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832909) with Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Ali Sadighian, Sangjo Kim and Jingchen Wu  
-Major Revision in *Management Science* 
+Minor Revision in *Management Science* 
 
 [**From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470) with Omar Besbes and Will Ma  
 Major Revision in *Management Science*
 
-## Work in Progress
 
-**Pricing with Binary Feedback: the Value of Information Bit by Bit** with Omar Besbes and Will Ma  
-Ongoing work
+
+
 
 
 

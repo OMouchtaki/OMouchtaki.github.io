@@ -27,8 +27,4 @@ widget:
     attachment: 
 ---
 
-#### Teaching Assistant (Columbia Business School)
-
-- EMBA Core: Operations Management. *Spring 2022*
-- MBA Core: Business Analytics. *Fall 2021*, *Fall 2022*, *Spring 2024*
-- MBA Elective: Business Analytics II. *Summer 2020*, *Summer 2021*
+- Operations Management (Part-Time MBA Core, Spring 2025)
