@@ -27,4 +27,6 @@ widget:
     attachment: 
 ---
 
+- Foundations of AI Agents (MBA Elective, course co-designer)
+- Operations Management (Tech MBA Core, Fall 2025)
 - Operations Management (Part-Time MBA Core, Spring 2025)

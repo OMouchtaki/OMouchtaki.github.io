@@ -42,8 +42,10 @@ widget:
 I am an Assistant Professor of Technology, Operations and Statistics at the Leonard N. Stern School of Business at New York University.
 I received my Ph.D. in Operations Research from the Decision, Risk and Operations Division at Columbia Business School where I was advised by Prof. Omar Besbes and Prof. Will Ma. Prior to Columbia, I earned a BS and MS in Applied Mathematics and Computer Science from Ecole Polytechnique (Paris).
 
-The goal of my research is to bridge the gap between the theory and the practice of data-driven decision-making by developing methodological tools tailored to the problem
-at hand and by deriving fine-grained and problem-specific guarantees for algorithms. My current research draws on tools from Optimization, Probability and Statistical Learning and is applied to central operational decision-making processes such as those for inventory, pricing and assortment optimization.
+My research focuses on developing rigorous, context-specific methodologies for data-driven decision-making under uncertainty. Using tools from Optimization, Probability, and Statistical Learning, I study core operational problems including inventory, pricing, assortment optimization, and auction design, and aim to provide fine-grained guarantees for algorithms in these settings. I am increasingly interested in the role of artificial intelligence as a foundation for decision-making in complex operational environments.
+
+
+I teach Operations Management to MBA students at NYU Stern, emphasizing how operational capabilities illuminate firms’ financial performance. I am also co-designing a new course on the foundations of AI agents, examining how agentic and generative AI architectures will transform managerial decisions.
 
 
 
