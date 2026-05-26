@@ -30,6 +30,8 @@ widget:
 
 ## Working/Under-revision Papers
 
+[**What is the Value of Censored Data? An Exact Analysis for the Data-driven Newsvendor**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244838) with Rachitesh Kumar
+
 [**Auction Design using Value Prediction with Hallucinations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5134705) with Ilan Lobel and Humberto Moreira
 
 [**Prior-Independent Bidding Strategies for First-Price Auctions**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138056) with Rachitesh Kumar
