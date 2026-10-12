@@ -27,6 +27,6 @@ widget:
     attachment: 
 ---
 
-- Foundations of AI Agents (MBA Elective, course co-designer)
-- Operations Management (Tech MBA Core, Fall 2025)
-- Operations Management (Part-Time MBA Core, Spring 2025)
+- Foundations of AI Agents (MBA Elective, course co-designer). More information and student projects are available [here](https://aiagents.stern.nyu.edu/).
+- Operations Management (Full-time MBA, Part-time MBA and Tech MBA core)
+- Convex Optimization (PhD Core)

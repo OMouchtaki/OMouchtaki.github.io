@@ -32,7 +32,8 @@ widget:
 
 [**What is the Value of Censored Data? An Exact Analysis for the Data-driven Newsvendor**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6244838) with Rachitesh Kumar
 
-[**Auction Design using Value Prediction with Hallucinations**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5134705) with Ilan Lobel and Humberto Moreira
+[**Randomly Wrong Signals: Bayesian Auction Design with ML Predictions**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5134705) with Ilan Lobel and Humberto Moreira  
+*A previous version of this paper was called "Auction Design using Value Prediction with Hallucinations".*
 
 [**Prior-Independent Bidding Strategies for First-Price Auctions**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138056) with Rachitesh Kumar
 
@@ -41,13 +42,13 @@ widget:
 ## Published or Forthcoming Journal Articles
 
 [**From Contextual Data to Newsvendor Decisions: On the Actual Performance of Data-Driven Algorithms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361470) with Omar Besbes and Will Ma  
-*Management Science* (Forthcoming)
+*Management Science* (Articles in Advance)
 
 [**Joint Assortment and Inventory Planning under the Markov chain Choice Model**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832909) with Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Ali Sadighian, Sangjo Kim and Jingchen Wu  
-*Management Science* (Forthcoming)
+*Management Science*, Vol. 72, No. 10, pp. 8667-8682, 2026
 
 [**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928) with Omar Besbes and Will Ma  
-*Management Science* (Articles in advance)
+*Management Science*, Vol. 71, No. 12, pp. 10538-10555, 2025
 
 [**How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878155) with Omar Besbes   
 *Management Science*, Vol. 69, No. 10, pp. 5848-5865, 2023
