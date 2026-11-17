@@ -37,8 +37,7 @@ widget:
 
 [**Prior-Independent Bidding Strategies for First-Price Auctions**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138056) with Rachitesh Kumar
 
-[**Fast Revenue Maximization**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes  
-*Minor revision in M&SOM*
+[**Fast Revenue Maximization**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890431) with Achraf Bahamou and Omar Besbes
 
 ## Published or Forthcoming Journal Articles
 
